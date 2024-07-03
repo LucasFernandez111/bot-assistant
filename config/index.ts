@@ -1,0 +1,1 @@
+export const ASSISTANT_ID = process.env?.ASSISTANT_ID ?? ''
